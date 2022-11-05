@@ -1,0 +1,11 @@
+ body{
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+ }
+
+ canvas{
+    border: 5px ridge blueviolet;
+    border-radius: 50px;
+ }
+ 
